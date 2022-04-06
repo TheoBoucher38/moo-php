@@ -1,0 +1,12 @@
+{
+    "name": "theobouche/autoloaddtest",
+    "description": "yy",
+    "autoload": {
+        "psr-4": {
+            "App\\": "vendor/gipetto/cowsay"
+        }
+    },
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
